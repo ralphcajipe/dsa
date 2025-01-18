@@ -1,5 +1,6 @@
 # First 20 Fibonnaci Numbers
 
+# First 2
 previous = 0
 current = 1
 
